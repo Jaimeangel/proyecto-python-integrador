@@ -9,10 +9,9 @@ El usuario puede hacer las siguientes acciones:
 * ver su balance general y capacidad de ahorro.
 
 ## Ejecutar el programa
-Para que el programa funciones correctamente es necesario tener las siguientes especificaciones/modulos:
-* Python
-* pip
-* pydantic
+Para que el programa funcione correctamente es necesario seguir las siguientes recomendaciones:
+* crear un entorno virtual
+* instalar todas las dependencias necesarias del archivo requirements.txt
 
 Asegurese de tener estas especificaciones antes de tratar de correr el programa.
 
